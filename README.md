@@ -1,11 +1,11 @@
 # Introduction To Python 3
 
+![](https://analyticsindiamag.com/wp-content/uploads/2019/10/python-1-1600x901.jpg)
+
 ## Overview
+In this lesson we'll discuss why Python 3 is a popular and valuable programming language in the world today. We'll also be covering basic syntax in relation to JavaScript syntax, and how to set up a python environment.
 
-- Setup a python environment
-- Learn python syntax
-
-## Installation
+## Getting Started
 
 We'll start by installing Python 3:
 
@@ -58,6 +58,7 @@ Take a few minutes to read this article about why Python has become so popular:
 
 Python has become popular in the world of data science because of it's ability to easliy parse various types of files and data formats, although not the fastest, it's syntactically easy to understand as it looks almost like plain english. It's a human readable programming language.
 
+___
 ## Python Basics and Syntax
 
 ### Data Types
@@ -121,6 +122,13 @@ Python has basic math operators built in just like many other programming langua
 | `**`     | exponentiation                   |
 | `+=`     | plus equals                      |
 
+### Useful String Methods
+
+- `'{var}'.format(var='Cat') => Works like template literals`
+- `'' + '' => String Concatenation`
+___
+## You Do
+
 Let's do some basic math problems, work in the `main.py` file you'll be performing the following and printing them. Check your work by running the `main.py` file => `python3 main.py`:
 
 - Create a variable to store the sum of 10 plus 10.
@@ -135,7 +143,6 @@ Let's do some basic math problems, work in the `main.py` file you'll be performi
 
 As you can see, python has many similarities to other programming languages. A lot of what you've learned in javascript can translate to python! Certain data types go by different names and variables are set up slightly different.
 
-## Useful String Methods
-
-- `'{var}'.format(var='Cat') => Works like template literals`
-- `'' + '' => String Concatenation`
+## Resources
+- [Python 3 Language Reference Docs](https://docs.python.org/3/reference/index.html)
+- Article: [What is Python Used For? 7 Major Uses](https://www.bitdegree.org/tutorials/what-is-python-used-for/)
