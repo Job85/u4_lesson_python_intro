@@ -22,7 +22,7 @@ python3 --version
 ### WSL
 
 ```sh
-sudo apt update && upgrade
+sudo apt update && sudo apt upgrade
 ```
 
 ```sh
