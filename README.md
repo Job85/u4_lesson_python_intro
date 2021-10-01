@@ -70,7 +70,7 @@ Python has similar data types to javascript, everything from numbers to objects.
 | string    | "string" or 'string'               | "string" or 'string' | Yes     |
 | integer   | `32`                               | `32`                 | Yes     |
 | float     | `3.55`                             | `3.55`               | yes     |
-| object    | `{myKey: "myValue"}` => Dictionary | `{myKey:"myValue"} ` | Yes     |
+| object    | `{"myKey": "myValue"}` => Dictionary | `{myKey:"myValue"} ` | Yes     |
 | array     | `["Hello","World"]` => List        | `["Hello", "World"]` | Yes     |
 | null      | `None`                             | `null`               | No      |
 | tuple     | `('My','Tuple')`                   | N/A                  | No      |
